@@ -1,4 +1,4 @@
-perfil.jpg
+![Leidy Lizeth Casanova](URL_DE_LA_IMAGEN)
 # Leidy Lizeth Casanova
 
 - [LinkedIn](tu_linkedin)
