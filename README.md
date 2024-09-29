@@ -1,5 +1,4 @@
-![Leidy Lizeth Casanova](ruta/a/tu/foto.jpg)
-
+perfil.jpg
 # Leidy Lizeth Casanova
 
 - [LinkedIn](tu_linkedin)
