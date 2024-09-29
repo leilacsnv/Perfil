@@ -1,4 +1,4 @@
-![Leidy Lizeth Casanova](URL_DE_LA_IMAGEN)
+![Leidy Lizeth Casanova](https://github.com/leilacsnv/Perfil/commit/e558b6d37096e508f4062fb91398b3763c901be2)
 # Leidy Lizeth Casanova
 
 - [LinkedIn](tu_linkedin)
