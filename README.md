@@ -1,2 +1,2 @@
 # Perfil
-Soy Lizeth Casanova, estudiante de Ingeniería de Sistemas en San Juan de Pasto, Colombia Nariño. Estoy inmersa en el mundo de la tecnología, buscando aprender y crecer constantemente. Mis habilidades analíticas me permiten resolver problemas de manera creativa.
+Soy Leidy Lizeth Casanova, estudiante de Ingeniería de Sistemas en San Juan de Pasto, Colombia. Estoy inmersa en el mundo de la tecnología, buscando aprender y crecer constantemente. Disfruto trabajar en equipo y creo en la colaboración para alcanzar objetivos comunes. Mis habilidades analíticas me permiten resolver problemas de manera creativa. Aspiro a unirme a un equipo donde pueda aplicar mis conocimientos y seguir desarrollándome profesionalmente.
